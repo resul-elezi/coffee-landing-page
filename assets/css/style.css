@@ -26,4 +26,13 @@
     font-weight: 700;
     src: url('../fonts/poppins-700.woff2') format('woff2');
   }
+  :root {
+    /* White: #fff
+    - Black: #000 */
+--albescent-white:#f6ebda;
+--macaroni-cheese:#ffbd7f;
+--sepia-skin: #a0583c;
+--roman-coffee: #835e4c;
+--brown-tumbleweed: #2f2105;
+  }
   
