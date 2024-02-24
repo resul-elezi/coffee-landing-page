@@ -36,3 +36,7 @@
 --brown-tumbleweed: #2f2105;
   }
   
+
+  .cart-order-btn {
+    background: var(--macaroni-cheese);
+  }
